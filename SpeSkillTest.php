@@ -102,6 +102,7 @@ echo "<br/>";
 echo 'ini run findNeedle : ';
 echo "<br/>";
 print_r($obj->findNeedle(["red", "blue", "yellow", "black", "grey"], "blue"));
+echo "<br/>";
 echo 'ini run blueOcean : ';
 echo "<br/>";
 print_r($obj->blueOcean([1, 2, 3, 4, 6, 10], [1]));
